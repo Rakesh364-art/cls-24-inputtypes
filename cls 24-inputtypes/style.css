@@ -1,0 +1,45 @@
+.mainDiv{
+    width: 450px;
+    border: 1px solid black;
+    height:500px ;
+    border-radius: 10px 10px;
+    background-color: white;
+     
+    
+
+    
+
+     
+}
+.log{
+    margin: 30px;
+    font-size: 2rem;
+}
+ .needDiv{
+    font-size: 1rem;
+    margin:30px ;
+ }
+ .mailDiv{
+    margin: 30px;
+ }
+ .firstmailDiv{
+    margin-bottom: 20px;
+ }
+ .keepDiv{
+    margin: 30px;
+ }
+ .forgotUsernameDIV{
+    margin: 30px;
+ }
+ .cantDiv{
+    margin: 25px;
+ }
+ body{
+    background-color: silver;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 100px;
+ }
+  
+  
